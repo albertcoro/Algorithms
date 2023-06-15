@@ -1,2 +1,2 @@
-# algorithms
+# Algorithms
 Sorting algorithms in different languages
