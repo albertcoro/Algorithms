@@ -29,10 +29,8 @@ Each algorithm is implemented in the following programming languages:
 
 The repository is structured as follows:
     
-    .
-    ├── CPlusPlus: Contains C++ implementations of the sorting algorithms.
-    ├── GO: Contains Go implementations of the sorting algorithms.
-    ├── Java: Contains Java implementations of the sorting algorithms.
-    ├── Python: Contains Python implementations of the sorting algorithms.
-    ├── Rust: Contains Rust implementations of the sorting algorithms.
-    └── README.md
+ - CPlusPlus: Contains C++ implementations of the sorting algorithms.
+ - GO: Contains Go implementations of the sorting algorithms.
+ - Java: Contains Java implementations of the sorting algorithms.
+ - Python: Contains Python implementations of the sorting algorithms.
+ - Rust: Contains Rust implementations of the sorting algorithms.
